@@ -1,6 +1,6 @@
 # Code of Conduct v1.0
 
-This Code of Conduct governs how we behave in any forum and whenever we will be judged by our actions. We expect it to be honored by everyone who represents the [@TwitterOSS](https://twitter.com/twitteross) community officially or informally, claims affiliation with the project or participates directly.
+This Code of Conduct governs how we behave in any forum and whenever we will be judged by our actions. We expect it to be honored by everyone who represents thumbor-community officially or informally, claims affiliation with the project or participates directly.
 
 We strive to:
 
@@ -16,7 +16,7 @@ This code is not exhaustive or complete. It serves to distill our common underst
 
 We encourage participation by everyone. We are committed to being a community that everyone feels good about joining. Although we may not be able to satisfy everyone, we will always work to treat everyone well.
 
-Standards for behavior in the [@TwitterOSS](https://twitter.com/twitteross) community are detailed in the Code of Conduct above. We expect participants in our community to meet these standards in all their interactions and to help others to do so as well.
+Standards for behavior in the community are detailed in the Code of Conduct above. We expect participants in our community to meet these standards in all their interactions and to help others to do so as well.
 
 Whenever any participant has made a mistake, we expect them to take responsibility for it. If someone has been harmed or offended, it is our responsibility to listen carefully and respectfully, and do our best to right the wrong.
 
@@ -28,8 +28,7 @@ It's first recommend you speak with respective project leads and committers abou
 
 If that doesn't work:
 
-* You can report any code of conduct compliance issues by tweeting at [@TwitterOSS](https://twitter.com/twitteross)
-* If you prefer a more discreet route, please email [opensource+codeofconduct@twitter.com](mailto:opensource+codeofconduct@twitter.com)
+* You can report any code of conduct compliance issues by opening an issue.
 
 ## Thanks
 
