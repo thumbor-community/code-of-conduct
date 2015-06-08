@@ -1,6 +1,6 @@
 # Code of Conduct
 
-This repository contains the Open Source [Code of Conduct](https://github.com/twitter/code-of-conduct/blob/master/code-of-conduct.md) used in the [@TwitterOSS](https://twitter.com/twitteross) community.
+This repository contains the Open Source [Code of Conduct](https://github.com/thumbor-community/code-of-conduct/blob/master/code-of-conduct.md) used in the Thumbor community.
 
 # License
 
